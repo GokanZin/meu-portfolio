@@ -1,8 +1,8 @@
 const items = [
     {
-      title: "Plugin teste",
+      title: "Plugin MClasse",
       tags: ["MySQL", "SQLite", "Spigot"],
-      video: "https://www.youtube.com/embed/YoNpgc9lz2o"
+      video: "https://www.youtube.com/embed/cJFlNaoP1PU"
     },
     {
       title: "Outro Plugin",
